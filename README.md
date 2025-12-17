@@ -2,6 +2,7 @@
 
 ## [English Version](./README.md) | [Chinese Version](./README-cn.md)
 
+This is Jingchunzhen version.
 My learning notes for ML SYS.
 
 I've been writing this blog series intermittently for over a year now, and it's almost become an RL Infra Learning Note 😂
